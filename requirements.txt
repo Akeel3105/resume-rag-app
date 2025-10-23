@@ -8,3 +8,4 @@ langfuse
 requests
 PyMuPDF
 torch
+python-docx
