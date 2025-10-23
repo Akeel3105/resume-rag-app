@@ -9,3 +9,4 @@ requests
 PyMuPDF
 torch
 python-docx
+langchain-text-splitters
