@@ -1,0 +1,15 @@
+Question,Expected,Predicted,Similarity
+What is the candidate's full name?,Akeel Mohammad,The candidate's full name is Akeel Mohammad.,0.758
+List main MLOps skills of the candidate.,"CI/CD, Docker, Kubernetes, MLflow, Airflow, and model monitoring","The main MLOps skills of the candidate include:
+
+1. Automated ETL workflows
+2. Model retraining
+3. CI/CD deployment using Prefect, GitHub Actions, and Docker
+4. Building scalable production-ready pipelines
+5. Designing robust Backend & APIs with FastAPI, Flask, and cloud deployment on AWS and GCP
+6. Extensive experience in MLOps tools like Streamlit, Chainlit, Gradio, and AWS S3
+7. Proficiency in DevOps practices using Jenkins and modern CI/CD methods",0.468
+What company or organization was this resume prepared for?,NSEIT,"This resume was prepared for NuSummit in Mumbai, India. Additionally, the individual has worked at ICICI Bank Pvt Ltd in Satara, IN as Deputy Branch Manager from October 2013 to November 2 Written by:
+
+NuSummit                                               Mumbai, IN",0.275
+What is the candidate’s total experience?,Around 3+ years in MLOps and Data Engineering,"The candidate has a total of 5+ years of Data Science & MLOps Professional experience with an additional Post Graduate Diploma in Data Science, Banking and Finance, Bachelor of Banking and Insurance.",0.652
